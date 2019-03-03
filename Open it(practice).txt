@@ -1,0 +1,1 @@
+This is just the basic knowledge. (console, Pop-Up, design patterns, JDBC connection with Apache etc.)
